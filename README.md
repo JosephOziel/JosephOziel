@@ -1,9 +1,8 @@
  Hi, I’m @JosephOziel
 
-I like using cool programming languages, and I love to make programming languages.
-I use prolog, factor, python, and elixir. I am currently learing haskell.
+i like to make esolangs, and sometimes normal programming languages.
 
-Check out my stuff!
+trying to learn cool computer science stuff and more about turing completeness.
 
 <!---
 JosephOziel/JosephOziel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
