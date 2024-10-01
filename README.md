@@ -2,7 +2,7 @@
 
 i like to make esolangs, and sometimes normal programming languages.
 
-trying to learn cool computer science stuff and more about turing completeness.
+trying to learn cool computer science stuff and more about turing completeness and pseudo-randomness.
 
 <!---
 JosephOziel/JosephOziel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
